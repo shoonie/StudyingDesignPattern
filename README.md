@@ -1,3 +1,3 @@
 # StudyingDesignPattern
 
-## visir https://github.com/shoonie/StudyingDesignPattern/wiki
+## visit https://github.com/shoonie/StudyingDesignPattern/wiki
